@@ -1,3 +1,3 @@
 # React-Food
 
-[demo](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[demo](https://ilya0947.github.io/React-food/)
